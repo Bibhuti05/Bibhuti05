@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bibhuti
-- 👀 I’m interested in Web and App devlopment.
-- 🌱 I’m currently learning javascript and React.
-- 💞️ I’m looking to collaborate on Web and App dev projects. 
+- 👀 I’m interested in Backend development, Robotics, Machine learning.
+- 🌱 I’m currently learning python and frameworks around backend development such as Django
+- 💞️ I’m looking to collaborate on anyting which is going to make our future better.
 - 📫 let's get in touch: bibhuticodes@gmail.com
 
 
