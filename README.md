@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Bibhuti
-- 👀 I’m interested in Backend development, Robotics, Machine learning.
-- 🌱 I’m currently learning python and frameworks around backend development such as Django
-- 💞️ I’m looking to collaborate on anyting which is going to make our future better.
+<h1 align="center">I am Bibhuti Bhushan Saha</h1>
+<h3 align="center">A fullstack developer And wannabe Indie hacker</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bibhuti05&label=Profile%20views&color=0e75b6&style=flat" alt="Bibhuti05" /> </p>
+
+- 👀 I’m am interested in domains such as fullstack and AI.
+- 🌱 I’m currently learning Fullstack web development with NEXTJS and MERN Stack
+- 💞️ I’m looking to collaborate on anything which is innovative and can change life of people around.
 - 📫 let's get in touch: bibhuticodes@gmail.com
-
-
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bibhuti05&theme=dark)](https://git.io/streak-stats)
